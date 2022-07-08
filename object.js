@@ -1,0 +1,11 @@
+var student1={ Name: "Rasel", ID:218, phone:0171};
+var student2={ Name: "Rahim", ID:219, Phoen:0183};
+console.log(student1);
+var name1=student1.Name;
+console.log(name1);
+student1.vil="Rathura";
+console.log(student1);
+student1.Name="Karim";
+console.log(student1);
+delete student1.ID;
+console.log(student1);

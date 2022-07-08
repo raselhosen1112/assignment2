@@ -1,0 +1,10 @@
+var number1=15;
+var number2=20;
+console.log(number1+number2);
+var string="Hello Javasricpt";
+console.log(string);
+console.log(typeof(string));
+console.log(string.toLocaleUpperCase());
+console.log(string.indexOf('Hello'));
+number2=number2.toString();
+console.log(number2+number1);
